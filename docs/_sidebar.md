@@ -1,4 +1,4 @@
-- [:octocat: 首页](/README)
+- [:octocat: 首页](md/Index.md)
 - :memo: 目录
    - 技术分享
    
