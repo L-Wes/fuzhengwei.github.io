@@ -9,4 +9,4 @@
 [![stars](https://badgen.net/github/stars/HistorySky/HistorySky.github.io?icon=github&color=4ab8a1)](https://github.com/HistorySky/HistorySky.github.io) [![forks](https://badgen.net/github/forks/HistorySky/HistorySky.github.io?icon=github&color=4ab8a1)](https://github.com/HistorySky/HistorySky.github.io) 
 
 [GitHub](<https://github.com/HistorySky/HistorySky.github.io>)
-[开始阅读](md/Index.md)
+[开始阅读](README.md)
